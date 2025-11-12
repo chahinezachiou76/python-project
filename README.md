@@ -15,3 +15,5 @@ A simple Python project to manage your daily tasks.
 3. Run the main file:
    `bash
    python main.py
+
+pytodo.png
