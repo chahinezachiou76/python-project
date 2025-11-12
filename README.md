@@ -14,6 +14,5 @@ A simple Python project to manage your daily tasks.
 2. Open it in VS Code or any Python editor
 3. Run the main file:
    `bash
-image/pytodo.png
+(Images/pytodo.png)
 
-pytodo.png
